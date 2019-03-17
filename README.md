@@ -1,8 +1,10 @@
 # Bamboo Terms Copy
 
-**Version:** 2019-MAR-15
+**Version:** 2019-MAR-17
 
 ## Revisions
+
+2019-03-17: Update TERMS - missing word.
 
 2019-03-16: Updated files TERMS to adjust laguage and correct typos.
 
