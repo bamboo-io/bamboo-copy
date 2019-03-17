@@ -112,7 +112,7 @@ Each time you use the Application, you are deemed to have:
 * authorised Bamboo to collect those Fees from you in accordance with this clause.
 
 #### 6.2 Unit of account
-All management fees are calculated in BAM and include 
+All management fees are calculated in BAM and includes GST.
 
 #### 6.3 Fees subject to Change
 Bamboo may change the Fees at any time by providing 14 days prior notice by email. By using the Application after the notice takes effect you are deemed to have accepted the changed Fees.
