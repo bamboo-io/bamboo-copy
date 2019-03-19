@@ -1,6 +1,7 @@
 ### A deposit fee is collected at the time of the deposit and is there to cover the exchange and payment provider costs.
 
 **A deposit flat fee applies accordingly**
+
 When the deposit is:
 
 - $50 - $100, the fee is \$1.49
