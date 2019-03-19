@@ -1,8 +1,10 @@
 # Bamboo Terms Copy
 
-**Version:** 2019-MAR-17
+**Version:** 2019-MAR-19
 
 ## Revisions
+
+2019-03-19: Add deposit fees file.
 
 2019-03-17: Update TERMS - missing word.
 
