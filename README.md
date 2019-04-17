@@ -4,6 +4,8 @@
 
 ## Revisions
 
+2019-04-17: Add withdrawal fees file.
+
 2019-03-19: Add deposit fees file.
 
 2019-03-17: Update TERMS - missing word.
