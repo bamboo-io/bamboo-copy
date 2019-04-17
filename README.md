@@ -4,7 +4,7 @@
 
 ## Revisions
 
-2019-04-17: Add withdrawal fees file.
+2019-04-17: Add withdrawal fees file and withdraw info file.
 
 2019-03-19: Add deposit fees file.
 
