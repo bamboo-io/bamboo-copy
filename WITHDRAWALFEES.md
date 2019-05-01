@@ -5,9 +5,9 @@ When the amount to withdraw is:
 
 - Below and including $100, the fee is \$1.49
 
-- > $100 to $250, the fee is \$2.49
+- \> $100 to $250, the fee is \$2.49
 
-- > $250 to $500, the fee is \$3.99
+- \> $250 to $500, the fee is \$3.99
 
 - Above $500, the fee is 0.8%
 
