@@ -1,8 +1,10 @@
 # Bamboo Terms Copy
 
-**Version:** 2019-MAR-19
+**Version:** 2019-JUN-06
 
 ## Revisions
+
+2019-06-06: Add referrals info file.
 
 2019-04-17: Add withdrawal fees file and withdraw info file.
 
