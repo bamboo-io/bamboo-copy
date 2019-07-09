@@ -4,6 +4,8 @@
 
 ## Revisions
 
+2019-07-07: Add portfolio info file.
+
 2019-06-06: Add referrals info file.
 
 2019-04-17: Add withdrawal fees file and withdraw info file.
