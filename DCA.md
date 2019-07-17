@@ -1,4 +1,4 @@
-## Be there all the time, so you never miss the ups.
+# Be there all the time, so you never miss the ups.
 
 Monthly savings in assets to buy asset units at different times, one or more times a month. This means that you will buy both when the market goes up and when it goes down. Spreading the purchases over different occasions, instead of placing a larger order at one and the same time, will in theory decrease the risk of your assets falling in value.
 
