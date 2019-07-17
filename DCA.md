@@ -4,8 +4,8 @@ Monthly savings in assets to buy asset units at different times, one or more tim
 
 # Dollar Cost Averaging
 Breakdown
-1. March . 
-You start monthly savings and the asset's value is $10 dollars per unit. 
+1. March
+  - You start monthly savings and the asset's value is $10 dollars per unit. 
 
 2. July
 The asset's value has gone down 20% to $8 dollars per unit. Your monthly savings will thus give you more asset units for the amount you save. 
