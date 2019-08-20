@@ -6,6 +6,10 @@ You can use withdrawals to lock in profit on your assets or simply reduce your i
 **How does it work?**
 We calculate the portion of your digital assets required to fulfil a requested withdrawal amount and immediately execute a sale of those assets at current market pricing.
 
+Calculations are based on the composition of your current portfolio and assets are sold evenly to cover the requested withdrawal amount.
+
+Should you wish to execute a sale on a single asset we currently only provide support for that through our support channel, please drop us a mail on support@getbamboo.io to avail of that service.
+
 Once the assets are sold a direct debit refund is issued to your funding account. After 1-3 bank days you should see a direct debit from “Bamboo 61” on your funding account statement with the sale value of your assets, less any withdrawal fee.
 
 Depending on market movements at the time of your sale the actual amount you receive may vary by +/- 5%.
