@@ -43,6 +43,6 @@ At this point your portfolio is now invested as;
 - $40 in Silver (20%)
 - $20 in Ethereum (10%)
 
-Notice how the current portfolio breakdown is different than your chosen portfolio composition. This is because the portfolio composition only affect **future** investment. Keep an eye our for portfolio rebalancing where we will allow you to rebalance your portfolio to have a selected breakdown. We haven't enabled this yet as it is a taxable event so we want to ensure our customers understand the implications fully.
+Notice how the current portfolio breakdown is different than your chosen portfolio composition. This is because the portfolio composition only affect **future** investment. Keep an eye out for portfolio rebalancing where we will allow you to rebalance your portfolio to have a selected breakdown. We haven't enabled this yet as it is a taxable event, so we want to ensure our customers understand the implications fully.
   
 If you have any questions please visit our [website](https://www.getbamboo.io).
