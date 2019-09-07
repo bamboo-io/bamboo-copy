@@ -24,24 +24,24 @@ $40 in Bitcoin
 $20 in Silver
 
 You now decide you would like to add Ethereum to your portfolio. You deduct 20 points from Bitcoin and assign them to Ethereum leaving your with a portfolio of;
-Gold - 40 points
-Bitcoin - 20 points
-Ethereum - 20 points
-Silver - 20 points
+- Gold (40 points)
+- Bitcoin (20 points)
+- Ethereum (20 points)
+- Silver (20 points)
 
 You then deposit a further $100.
 
 We will now invest;
-$40 in Gold
-$20 in Bitcoin
-$20 in Ethereum
-$20 in Silver
+- $40 in Gold
+- $20 in Bitcoin
+- $20 in Ethereum
+- $20 in Silver
 
 At this point your portfolio is now invested as;
-$80 in Gold (40%)
-$60 in Bitcoin (30%)
-$40 in Silver (20%)
-$20 in Ethereum (10%)
+- $80 in Gold (40%)
+- $60 in Bitcoin (30%)
+- $40 in Silver (20%)
+- $20 in Ethereum (10%)
 
 Notice how the current portfolio breakdown is different than your chosen portfolio composition. This is because the portfolio composition only affect **future** investment. Keep an eye our for portfolio rebalancing where we will allow you to rebalance your portfolio to have a selected breakdown. We haven't enabled this yet as it is a taxable event so we want to ensure our customers understand the implications fully.
   
