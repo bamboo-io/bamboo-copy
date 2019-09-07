@@ -12,16 +12,16 @@ If you have a portfolio with 100 points assigned to Bitcoin and you would like f
 
 **Example**
 You decide to compose your portfolio of Gold, Bitcoin and Silver as follows;
-Gold - 40 points
-Bitcoin - 40 points
-Silver - 20 points
+- Gold (40 points)
+- Bitcoin (40 points)
+- Silver (20 points)
 
 You then deposit $100.
 
 We will look at your current portfolio selection and invest;
-$40 in Gold
-$40 in Bitcoin
-$20 in Silver
+- $40 in Gold
+- $40 in Bitcoin
+- $20 in Silver
 
 You now decide you would like to add Ethereum to your portfolio. You deduct 20 points from Bitcoin and assign them to Ethereum leaving your with a portfolio of;
 - Gold (40 points)
