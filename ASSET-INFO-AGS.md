@@ -7,6 +7,6 @@ Plese note that Bamboo does not take any profit from this spread, the spread cov
 
 You will note silver has higher spreads than gold. The gold price is around 85 times higher than silver but the costs of bullion production are similar. Silver is also more expensive to refine, freight and store. In percentage terms this presents as higher spreads. This is normal in bullion trading.
 
-While under management all AGS tokens are fully guaranteed using our Proof of Solvency protocol.
+While under management all AGS tokens are fully guaranteed using our [Proof of Solvency](https://www.getbamboo.io/solvency-protocol) protocol.
 
-If you have any questions please visit our website.
+If you have any questions please visit our [website](https://www.getbamboo.io).
