@@ -1,4 +1,4 @@
-ld## Silver
+## Silver
 Pure Silver Bullion. We’ve matched 1 AGS token to 1 Gram of Silver provided through the Gold Silver Standard.
 
 A reality of dealing with a token fully backed by real physical bullion is that there are real costs in doing so. As such the sale of silver includes a spread of 7.3%. As such we recommend you approach investment in these assets with a long term mindset.
