@@ -6,6 +6,6 @@ A reality of dealing with a token **fully** backed by real physical bullion is t
 
 Note that Bamboo does not take any profit from this spread, the spread covers the costs in refining, production and handling of pure bullion.
 
-While under management all AUS tokens are fully guaranteed using our [Proof of Solvency](https://www.getbamboo.io/solvency-protocol/) protocol.
+While under management all AUS tokens are fully guaranteed using our [Proof of Solvency](https://www.getbamboo.io/solvency-protocol) protocol.
 
 If you have any questions please visit our [website](https://www.getbamboo.io).
