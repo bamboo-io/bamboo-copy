@@ -1,8 +1,10 @@
 # Bamboo Terms Copy
 
-**Version:** 2019-JUN-06
+**Version:** 2019-SEP-09
 
 ## Revisions
+
+2019-09-09: Add per-asset information for Bitcoin, Ethereum, Gold (AUS) & Silver (AGS). Updated REFERRAL-INFO for $5 each to referrer and referred user.
 
 2019-07-07: Add portfolio info file.
 
