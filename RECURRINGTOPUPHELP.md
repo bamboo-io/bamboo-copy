@@ -12,6 +12,6 @@ When you schedule a top-up, a direct debit is issued to your funding account on 
 
 Please note that it can take between 1-3 banking days for your Direct Debit to clear after leaving your bank account depending on your bank.
 
-The minimum Recurring Top-up is $50 AUD, with a weekly limit of $1,000, a fortnightly limit of $2,500 a monthly limit of $5000.
+The minimum Recurring Top-up is $50 AUD, with a weekly limit of $3,500, a fortnightly limit of $7,000 a monthly limit of $15000.
 
 If you have any questions about Recurring Top-ups visit our [website](https://getbamboo.io "Bamboo").
