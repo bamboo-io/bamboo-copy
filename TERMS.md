@@ -71,7 +71,7 @@ You may withdraw Fiat Currency from your Account at any time. We are under no ob
 
 ### 3. Direct Debit Authorisation
 #### 3.1 Direct Debit Authorisation
-Split Payments Pty Ltd (User ID 492448) provides direct debit services to us. You request and authorise Split Payments Pty Ltd to arrange, through their own financial institution, a debit to your nominated account of any amount Split Payments Pty Ltd, has deemed payable by you.
+Split Payments Pty Ltd (User ID number 492448, 531942, 543948, 543950, 543949, 543954, 538925, 543947, 543955, 543956, 543957, 543958, 543962, 613600, 613601, 613602, 613603, 613604, 613605, 613606, 613607, 613608, 613609) provides direct debit services to us. You request and authorise Split Payments Pty Ltd to arrange, through their own financial institution, a debit to your nominated account of any amount Split Payments Pty Ltd, has deemed payable by you.
 
 This debit or charge will be made through the Bulk Electronic Clearing System (BECS) from your Funding Bank Account and will be subject to the terms and conditions of Spit Payments Pty Ltd’s Direct Debit Request Service Agreement.
 
