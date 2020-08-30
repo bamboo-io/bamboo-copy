@@ -4,6 +4,8 @@
 
 ## Revisions
 
+2020-08-25: Adjust for the ownership change.
+
 2019-09-09: Add per-asset information for Bitcoin, Ethereum, Gold (AUS) & Silver (AGS). Updated REFERRAL-INFO for $5 each to referrer and referred user.
 
 2019-07-07: Add portfolio info file.
@@ -21,3 +23,5 @@
 2019-01-30: Updated files TERMS, PRIVACYPOLICY and PRIVACYCOLLECTIONSTATEMENT
 
 2018-12-20: Improved readability within the Bamboo App - fixes to formatting and whitespace only.
+
+
