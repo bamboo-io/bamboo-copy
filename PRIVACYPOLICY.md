@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Bamboo 61 Pty Ltd and Bamboo Core AG (**“Bamboo”, “we”, “our”, “us”**) are committed to protecting your privacy in accordance with the *Privacy Act 1988 (Cth)* in Australia and the *General Protection Data Regulation (EU) 2016/679* in the European Union.
+Bamboo 61 Pty Ltd and Bamboo Core AG (**“Bamboo”, “we”, “our”, “us”**) are committed to protecting your privacy in accordance with the *Privacy Act 1988 (Cth)* in Australia.
 
 This Privacy Policy describes our policies and practices in relation to how we collect, store, use and disclose your personal information. It also explains how you can complain about a breach of the privacy laws, how you can access the personal information we hold about you and how to have that information corrected.
 
@@ -62,7 +62,7 @@ We do not sell, trade, licence or rent your personal information.
 
 ### Disclosing your personal information overseas
 
-If we disclose your information to any businesses who are located overseas, we will ensure that either they are subject to equivalent or better privacy regulatory regimes as Australia and the EU, or that they have agreed to provide equivalent or better protection of your personal information as is required in Australia and the EU.
+If we disclose your information to any businesses who are located overseas, we will ensure that either they are subject to equivalent or better privacy regulatory regimes as Australia, or that they have agreed to provide equivalent or better protection of your personal information as is required in Australia.
 
 ### How our website and mobile application manage your personal information
 
@@ -121,11 +121,6 @@ Website: [https://www.oic.wa.gov.au/en-au/](https://www.oic.wa.gov.au/en-au/ 'OI
 Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au 'Email OAIC')  
 Tel: [1300 363 992](<tel:1300 363 992 "Call OAIC">)  
 
-**European Union**  
-European Data Protection Supervisor  
-Website: [https://edps.europa.eu/edps-homepage_en](https://edps.europa.eu/edps-homepage_en 'EU EDPS')  
-Complaint Form: [Complaint form](https://edps.europa.eu/node/75 'EU Complaint Form')  
-
 ### Contacting Us
 
 We welcome your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact our Privacy Officer by email at [privacy@getbamboo.io](mailto:privacy@getbamboo.io 'Email the Bamboo Privacy Officer').
@@ -134,10 +129,3 @@ We welcome your comments regarding this Privacy Policy. If you have any question
 ABN 86 626 100 981  
 G/45 St Georges Terrace, Perth  
 6000, Australia  
-
-EU Representative: Bamboo Core AG
-
-**Bamboo Core AG**  
-CHE 267.674.279  
-Baarerstrasse 82, Zug  
-6300, Switzerland  
