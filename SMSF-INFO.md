@@ -11,4 +11,4 @@ The legal name of the fund is the name of your Self-Managed Super Fund. For exam
 
 ## Please note:  
 
-The bank account you onnect will not be possible to change in the future
+The bank account you connect will not be possible to change in the future.
