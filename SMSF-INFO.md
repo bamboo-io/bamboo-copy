@@ -7,4 +7,8 @@ An SMSF can have a corporate trustee or an individual trustee structure. A corpo
 
 ## What is the legal name of the fund?  
 
-The legal name of the fund is the name of your Self-Managed Super Fund. For example, Crypto Family Super Fund.
+The legal name of the fund is the name of your Self-Managed Super Fund. For example, Crypto Family Super Fund.  
+
+## Please note:  
+
+The bank account you onnect will not be possible to change in the future
