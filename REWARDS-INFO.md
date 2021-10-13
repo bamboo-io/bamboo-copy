@@ -21,7 +21,7 @@ BAM Rewards
 
 Activating the ‘Activate Rewards’ button in the rewards section of the app.
 
-Allocating 2% of BAM in your portfolio at a value of at least 50 BAM. Then, maintain 2% of BAM in your portfolio, ongoing.
+Allocating 2% of BAM in your portfolio at a value of at least $50. Then, maintain 2% of BAM in your portfolio, ongoing.
 
 The purchase of BAM is fully tradable and can be sold down proportionally to your portfolio at any time. In the future, users will have the option to rebalance rewards for BTC and ETH.
 
