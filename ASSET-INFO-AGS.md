@@ -1,12 +1,6 @@
 ## Silver
-Pure Silver Bullion. We’ve matched 1 AGS token to 1 Gram of Silver provided through the Gold Silver Standard.
+Pure Silver Bullion. We’ve matched 1 AGS token to 1 Gram of Silver provided through the Gold Silver Standard. We trade AGS tokens through Ainslie Wealth.
 
-A reality of dealing with a token fully backed by real physical bullion is that there are real costs in doing so. A consequence of this is that the sale of silver includes a spread of 7.3%. As such we recommend you approach investment into Silver with a long-term mindset.
+This AGS token is a digital currency (ERC-20 token) backed 1 to 1 by silver bullion already secured, insured and audited in a high security Australian vault. The Gold and Silver Standard are ERC-20 compliant, using the Ethereum blockchain. The Ethereum blockchain is the largest and most trusted blockchain protocol.
 
-Plese note that Bamboo does not take any profit from this spread, the spread covers the costs in refining, production and handling of pure bullion.
-
-You will note silver has higher spreads than gold. The gold price is around 85 times higher than silver but the costs of bullion production are similar. Silver is also more expensive to refine, freight and store. In percentage terms this presents as higher spreads. This is normal in bullion trading.
-
-While under management all AGS tokens are fully guaranteed using our [Proof of Solvency](https://www.getbamboo.io/solvency-protocol) protocol.
-
-If you have any questions please visit our [website](https://www.getbamboo.io).
+All management of AGS tokens are fully guaranteed. If you have any questions please visit our [website](https://www.getbamboo.io).
