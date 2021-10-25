@@ -2,13 +2,13 @@
 
 ## What is BAM Rewards?
 
-Bamboo gives users the opportunity to earn rewards based on in-app activity. Rewards are paid in BAM tokens valued at approximately $X and can be sold for cash at any point. When users activate rewards and maintain 2% of the BAM in your portfolio users are eligible to get BAM rewards.
+Bamboo gives users the opportunity to earn rewards based on in-app activity. Rewards are paid in BAM tokens and can be sold for cash at any point. When users activate rewards and maintain 2% of the BAM in your portfolio users are eligible to get BAM rewards.
 
 ## What is $BAM?
 
 BAM is the native reward token used on the Bamboo platform used as a unit of account.
 
-BAM Rewards
+### BAM Rewards
 
 |Action|$BAM Rewards|Rewards value|
 |------|------------|-------------|
@@ -16,6 +16,7 @@ BAM Rewards
 |Reoccurring turned on|4|4 BAM per month|
 |Round Ups per month|12|12 BAM per month|
 |Refer a friend|5|5 BAM per referral|
+&nbsp;
 
 ## How to qualify for rewards?
 
