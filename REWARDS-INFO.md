@@ -8,12 +8,12 @@ Bamboo gives users the opportunity to earn rewards based on in-app activity. Rew
 
 BAM is the native reward token used on the Bamboo platform used as a unit of account.
 
-### BAM Rewards
+## BAM Rewards
 
 |Action|$BAM Rewards|Rewards value|
 |------|------------|-------------|
 |Top-Ups per $100|1.5|3 BAM per top-up|
-|Reoccurring turned on|4|4 BAM per month|
+|Recurring turned on|4|4 BAM per month|
 |Round Ups per month|12|12 BAM per month|
 |Refer a friend|5|5 BAM per referral|
 
