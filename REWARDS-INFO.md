@@ -14,8 +14,15 @@ BAM is the native reward token used on the Bamboo platform used as a unit of acc
 |------|------------|-------------|
 |Top-Ups per $100|1.5|3 BAM per top-up|
 |Recurring turned on|4|4 BAM per month|
-|Round Ups per month|12|12 BAM per month|
 |Refer a friend|5|5 BAM per referral|
+
+&nbsp;
+
+## BAM Supply
+
+|Action|$BAM Rewards|Burnt value|
+|------|------------|-------------|
+|Round Ups per month|12|12 BAM per month|
 
 &nbsp;
 
