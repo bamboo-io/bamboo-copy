@@ -1,59 +1,62 @@
-# Learn more about BAM Rewards
-
-## What is BAM Rewards?
-
-Bamboo gives users the opportunity to earn rewards based on in-app activity. Rewards are paid in BAM tokens and can be sold for cash at any point. When users activate rewards and maintain 2% of the BAM in your portfolio users are eligible to get BAM rewards.
+# Everything You Need to Know About BAM Rewards
 
 ## What is $BAM?
 
-BAM is the native reward token used on the Bamboo platform used as a unit of account.
+BAM is the reward token of the Bamboo platform.
 
-## BAM Rewards
+## What is BAM Rewards?
 
-|Action|$BAM Rewards|Rewards value|
-|------|------------|-------------|
-|Top-Ups per $50|1.5|1.5 BAM per top-up|
-|Recurring turned on|4|4 BAM per month|
-|Refer a friend|5|5 BAM per referral|
+Bamboo gives users the opportunity to earn rewards in the form of BAM tokens. 
+BAM tokens are awarded to users based on in-app activity and can be sold for cash whenever the user desires, proportionate to their portfolio.
+
+## How Do I start receiving BAM rewards?
+
+1. Turn the **‘Activate Rewards’** button in the rewards section of the app.
+
+2. Allocate 2% of their portfolio to BAM, at a value of at least $50.
+
+3. Continue to maintain at least 2% of BAM in portfolio mix. EG: 48% Bitcoin, 48% Ethereum, 4% BAM
+
+## How do users earn BAM tokens?
+
+BAM tokens can be earned in the following quantities, by performing the following activity within the app:
+
+
+|Activity|BAM Rewards Value|
+|------|-------------|
+|Make a $50 Top Up |1.5 BAM per top-up|
+|Turn on Recurring Top-Ups|4 BAM per month|
+|Refer a friend|5 BAM per referral|
 
 &nbsp;
 
-## BAM Supply
+## Important Additional Information:
 
-|Action|$BAM Rewards|Burnt value|
-|------|------------|-------------|
-|Round Ups per month|12|12 BAM per month|
+*If a user has enabled BAM Rewards, but not allocated at least 2% BAM in their portfolio mix, what happens?*
 
-&nbsp;
+Once a user enables BAM Rewards, **they must maintain 2% of BAM in their portfolio mix to earn BAM rewards**.
 
-## How to qualify for rewards?
+If the user hasn’t allocated at least 2% BAM to the users portfolio, Bamboo will automatically add the necessary BAM to an investment event (round up, top-up or recurring investment) to maintain at least 2% BAM in the portfolio mix. 
 
-Activating the ‘Activate Rewards’ button in the rewards section of the app.
+**This means those withdrawals may be more than anticipated,** in order to enable the user to continue earning BAM rewards and get paid out, if and when the user wishes to cash in their BAM tokens. 
+To avoid larger than anticipated investments, users must ensure that they manually add at least 2% BAM into their portfolio mix after they have activated BAM rewards. For example: 48% Bitcoin, 48% Ethereum, 4% BAM.
 
-Allocating 2% of BAM in your portfolio at a value of at least $50. Then, maintain 2% of BAM in your portfolio, ongoing.
-
-The purchase of BAM is fully tradable and can be sold down proportionally to your portfolio at any time. In the future, users will have the option to rebalance rewards for BTC and ETH.
-
-## Extra information
-
-Once users enable extra rewards, we will automatically maintain at least 2% BAM in the portfolio mix.
-
-This means, in some circumstances when doing a round-up, top-up, or recurring payment we may add additional BAM to the purchase to meet the 2% threshold in order to earn BAM rewards.
 
 ## FAQs
 
 **Can I redeem/sell BAM?**
 
-You can sell BAM at any time proportionally to your portfolio. Our roadmap includes a feature to have a single asset sell to make it easy to sell/rebalance BAM individually.
+You can sell BAM at any time proportionally to your portfolio.
 
 **Can I transfer my BAM on/off the App?**
 
-No, unfortunately, Bamboo is a ‘closed loop’ system meaning you can only sell down your digital assets to your bank account.
+No, Bamboo is a ‘closed loop’ system meaning users can only sell their digital assets to their nominated bank account.
 
-**What is burning BAM?**
+**What does burning BAM mean?**
 
-There are 75,000,000 BAM tokens in circulation and the burning of BAM will reduce the supply of BAM over time. Bamboo purchases BAM off the open market and the internal app market for burning. The interim burning target is 750,000 BAM equating to 1% of the total supply.
+Burning BAM means reducing the amount of BAM that is in circulation. 
+The concept of burning BAM is to reduce the supply of BAM over time, to increase the value of a BAM token. 
 
-**What else can I use the token for?**
+**How much BAM is being burnt?**
 
-This is the first iteration of the BAM token implementation and there will be more utility provided in the future.
+There are currently 75,000,000 BAM tokens in circulation. The burning target is 750,000 BAM equating to 1% of the total supply.
