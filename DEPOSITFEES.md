@@ -9,4 +9,6 @@ When the deposit is:
 
 - $251 - $500, the fee is \$3.99
 
+- above $500, the fee is 0.8%
+
 _\*All fees are inclusive of GST._
