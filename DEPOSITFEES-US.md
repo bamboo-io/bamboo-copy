@@ -11,4 +11,4 @@ When the deposit is:
 
 - above $500, the fee is 0.8%
 
-_\**All fees are inclusive of taxes._
+_\*All fees are inclusive of taxes._
