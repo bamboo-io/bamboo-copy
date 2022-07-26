@@ -17,5 +17,5 @@ There is no minimum amount of withdrawal, you will simply need to withdraw enoug
             
 If you have any questions please visit our [website](https://www.getbamboo.io).
 
-_Please note that at present we do not allow withdrawal of underlying digital assets._
+_Please note that at present, we do not allow withdrawal of underlying digital assets._
 
