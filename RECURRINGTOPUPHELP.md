@@ -12,6 +12,6 @@ When you schedule a top-up, a direct debit is issued to your funding account on 
 
 Please note that it can take between 1-3 banking days for your Direct Debit to clear after leaving your bank account depending on your bank.
 
-The minimum Recurring Top-up is $%MINIMUM%, with a weekly limit of $%WEEKLY_LIMIT%, a fortnightly limit of $%FORTNIGHTLY_LIMIT% a monthly limit of $%MONTHLY_LIMIT%.
+The minimum Recurring Top-up is $%MINIMUM%, with a limit of $%WEEKLY_LIMIT% per week, $%FORTNIGHTLY_LIMIT% every two weeks, and $%MONTHLY_LIMIT% per month.
 
 If you have any questions about Recurring Top-ups visit our [website](https://getbamboo.io "Bamboo").
