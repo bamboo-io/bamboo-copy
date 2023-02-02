@@ -2,7 +2,7 @@
 Withdrawals are a quick and convenient way to sell your digital assets and withdraw funds back to your bank account. You can use withdrawals to lock in profit on your assets or simply reduce your investment exposure.
 
 **How does it work?**
-We calculate the portion of your digital assets required to fulfilд a requested withdrawal amount and immediately execute a sale of those assets at current market pricing.
+We calculate the portion of your digital assets required to fulfil a requested withdrawal amount and immediately execute a sale of those assets at current market pricing.
 
 Calculations are based on the composition of your current portfolio, and assets are sold evenly to cover the requested withdrawal amount.
 
