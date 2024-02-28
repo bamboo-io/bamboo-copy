@@ -22,11 +22,3 @@ price * Transaction 2 volume))/Total volume
 Please note that the performance is also based on an internal rate of return which is a metric used to estimate the profitability. It is the annual rate of growth that an investment is expected to generate.
 
 
-
-
-
-
-
-
-
-
