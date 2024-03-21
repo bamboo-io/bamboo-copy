@@ -1,5 +1,8 @@
-## Withdrawals
-Withdrawals are a quick and convenient way to sell your digital assets and withdraw funds back to your bank account. You can use withdrawals to lock in profit on your assets or simply reduce your investment exposure.
+## Sell
+There are two ways to sell your assets
+1.You can convert your assets to a USDC which is $USD denominated Stable Coin. You can learn more about USC Stable Coin here on our Blog.
+
+2.Withdrawals are a quick and convenient way to sell your digital assets and withdraw funds back to your bank account.
 
 **How does it work?**
 We calculate the portion of your digital assets required to fulfill a requested withdrawal amount and immediately execute a sale of those assets at current market pricing.
