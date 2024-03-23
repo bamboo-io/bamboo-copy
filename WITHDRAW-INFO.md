@@ -9,8 +9,6 @@ We calculate the portion of your digital assets required to fulfill a requested 
 
 Calculations are based on the composition of your current portfolio, and assets are sold evenly to cover the requested withdrawal amount.
 
-Should you wish to execute a sale on a single asset, we currently only provide support for that through our Support Channel. Please drop us a mail at support@getbamboo.io to avail of that service.
-
 Once the assets are sold, a direct debit refund is issued to your funding account. After 1-3 bank days, you should see a direct debit from "Bamboo 61" on your funding account statement with the sale value of your assets, less any withdrawal fee.
 
 
