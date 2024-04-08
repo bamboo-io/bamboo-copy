@@ -17,5 +17,5 @@ You select a portfolio distribution of Gold, Bitcoin and Silver as follows:
 
 You then deposit $100. We then allocate your $100 proportionally to these three assets. 
 
-If you are changing your current asset distribution, we won’t rebalance your portfolio (assets held), just how Bamboo invests in the future. However, you can change your current allocation via the single asset sell feature. 
+If you are changing your current asset distribution, we won’t rebalance your portfolio (assets held), just how Bamboo invests in the future. However, you can change your assets held via the single asset sell feature. 
 
