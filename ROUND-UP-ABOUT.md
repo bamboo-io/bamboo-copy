@@ -1,6 +1,6 @@
 ## About Round-ups
 
-Round-ups is an easy way to invest without having to think about it. By doing what you do every day, Bamboo lets you effortlessly put your spare change to work in a range of assets. Investing has never been easier.
+Round-ups are an easy way to invest without having to think about it. By doing what you do every day, Bamboo lets you effortlessly put your spare change to work in a range of assets. Investing has never been easier.
 
 Round-up to reach your Goals Faster and benefit from Dollar Cost Averaging. 
 
