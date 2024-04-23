@@ -13,6 +13,6 @@ When you schedule a top-up, a direct debit is issued to your funding account on 
 
 Please note that it can take between 1-3 banking days for your Direct Debit to clear after leaving your bank account depending on your bank.
 
-The minimum Recurring Top-up is $50, with a limit of $3,850 per week, however you can request a limit increase via the settings menu based on your in-app activity. 
+The minimum Recurring Top-up is $50, with a limit of $3,850 per week, however you can request a limit increase via the settings menu based on your in-app activities. 
 
 If you have any questions about Recurring Top-ups visit our [website](https://www.getbamboo.io/).
