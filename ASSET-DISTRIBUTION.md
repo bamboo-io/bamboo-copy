@@ -11,8 +11,8 @@ If you have a portfolio with 100 points assigned to Bitcoin and you'd like futur
 
 **Example**  
 You decide to compose your portfolio of Gold, Bitcoin and Silver as follows:
-- Gold
-- Bitcoin
-- Silver
+- Gold 30%
+- Bitcoin 50%
+- Silver 20%
 
 You then deposit $100. We then allocate your $100 proportionally to these three assets.
