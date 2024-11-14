@@ -1,4 +1,4 @@
-# Total Portfolio Value (AUD)
+## Total Portfolio Value (AUD)
 
 
 **Total Portfolio Value (AUD)** shows the value of all your assets in fiat based on the latest sell price:
@@ -8,7 +8,7 @@ Sum of (Asset amount * Latest Asset sell price) - withdrawal fee
 Please note: cryptocurrency is very volatile so your Total Portfolio Value might change every 10-15 seconds.
 
 
-# TPV Performance (AUD)
+## TPV Performance (AUD)
 
 
 The performance for TPV is calculated **for all time**, covering the entire period of your investment journey.
@@ -24,5 +24,5 @@ The dollar cost average is the weighted average price (VWAP) and describes a tra
 
 Please note that the performance is also based on an internal rate of return which is a metric used to estimate the profitability. It is the annual rate of growth that an investment is expected to generate.
 
-# Asset Performance (AUD)
+## Asset Performance (AUD)
 Performance metrics for individual assets are calculated **on a daily basis**, reflecting each day's specific price movements.
