@@ -8,7 +8,7 @@ Whether you're an individual user or an SMSF investor, we provide flexible optio
 
 ## For SMSF Users
 
-If you manage a Self-Managed Super Fund (SMSF), you’ll need to prepare specific reports for tax purposes at the end of each financial year.
+If you manage a Self-Managed Super Fund (SMSF), you'll need to prepare specific reports for tax purposes at the end of each financial year.
 
 **Guide for SMSF account owners:**
 
@@ -16,12 +16,12 @@ If you manage a Self-Managed Super Fund (SMSF), you’ll need to prepare specifi
    - Select the relevant financial year.  
    - Choose the Crypto Tax Calculator CSV format.
 
-2. **Use [Crypto Tax Calculator (CTC)](https://docs.google.com/document/d/19NG27Thm-EISwEXmIn3InK6P8-EahXkjCH5dSZtOb38/edit?usp=sharing)**  
+2. **Use [Crypto Tax Calculator (CTC)](https://home.cryptotaxcalculator.io/au)**  
    - Upload the CTC CSV file directly into the software.  
    - It will automatically categorize transactions and generate tax reports.
    - Consult Your Tax Advisor. Ensure compliance with current taxation laws. The information provided does not take into account individual 
      taxpayer circumstances and does not constitute tax advice.
 
 3. **Need Help?**
-   
-    If you’re working with an accountant, simply send them the exported file.
+
+If you're working with an accountant, simply send them the exported file.
