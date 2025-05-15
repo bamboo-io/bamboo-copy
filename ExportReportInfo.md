@@ -6,6 +6,8 @@ Whether you're an individual user or an SMSF investor, we provide flexible optio
 2. **CSV** – A detailed CSV spreadsheet view of your transactions and summaries.  
 3. **Crypto Tax Calculator (CTC)** – A pre-formatted file you can upload directly into Crypto Tax Calculator to streamline your tax preparation.
 
+Bonus: **Save 25 % on your first year** – enter the promo code **BAMBOO** at any plan checkout on the Crypto Tax Calculator website.
+
 ## For SMSF Users
 
 If you manage a Self-Managed Super Fund (SMSF), you'll need to prepare specific reports for tax purposes at the end of each financial year.
