@@ -4,7 +4,7 @@ Whether you're an individual user or an SMSF investor, we provide flexible optio
 
 1. **PDF** – A detailed PDF spreadsheet view of your transactions and summaries.  
 2. **CSV** – A detailed CSV spreadsheet view of your transactions and summaries.  
-3. **Crypto Tax Calculator (CTC)** – A pre-formatted file you can upload directly into Crypto Tax Calculator to streamline your tax preparation.
+3. **Crypto Tax Calculator (CSV)** – A pre-formatted file you can upload directly into Crypto Tax Calculator to streamline your tax preparation.
 
 Bonus: **Save 25 % on your first year** – enter the promo code **BAMBOO** at any plan checkout on the Crypto Tax Calculator website.
 
@@ -21,8 +21,7 @@ If you manage a Self-Managed Super Fund (SMSF), you'll need to prepare specific 
 2. **Use [Crypto Tax Calculator (CTC)](https://home.cryptotaxcalculator.io/au)**  
    - Upload the CTC CSV file directly into the software.  
    - It will automatically categorize transactions and generate tax reports.
-   - Consult Your Tax Advisor. Ensure compliance with current taxation laws. The information provided does not take into account individual 
-     taxpayer circumstances and does not constitute tax advice.
+   - Consult your tax advisor to ensure compliance with current taxation laws. The information provided does not take into account         individual taxpayers circumstances and we are unable to provide tax advice.
 
 3. **Need Help?**
 
