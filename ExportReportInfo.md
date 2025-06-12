@@ -4,7 +4,7 @@ Whether you're an individual user or an SMSF investor, we provide flexible optio
 
 1. **PDF** – A detailed PDF spreadsheet view of your transactions and summaries.  
 2. **CSV** – A detailed CSV spreadsheet view of your transactions and summaries.  
-3. **Crypto Tax Calculator (CSV)** – A pre-formatted file you can upload directly into Crypto Tax Calculator to streamline your tax preparation.
+3. **Crypto Tax Calculator CSV** – A pre-formatted file you can upload directly into Crypto Tax Calculator to streamline your tax preparation.
 
 Bonus: **Save 25 % on your first year** – enter the promo code **BAMBOO** at any plan checkout on the Crypto Tax Calculator website.
 
