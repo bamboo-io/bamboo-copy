@@ -21,11 +21,11 @@ If you manage a Self-Managed Super Fund (SMSF), you'll need to prepare specific 
    - **First-time export:** select “**Since start**” so Crypto Tax Calculator receives your full transaction history and can establish an accurate cost base. 
    - **Later exports:** choose the specific financial year you need.
 
-3. **Use [Crypto Tax Calculator (CTC)](https://home.cryptotaxcalculator.io/au)**  
+2. **Use [Crypto Tax Calculator (CTC)](https://home.cryptotaxcalculator.io/au)**  
    - Upload the CTC CSV file directly into the software.  
    - It will automatically categorize transactions and you can then generate your tax reports.
    - Consult your tax advisor to ensure compliance with current taxation laws. The information provided does not take into account individual taxpayers' circumstances, and we are unable to provide tax advice.
 
-4. **Need Help?**
+3. **Need Help?**
 
 If you're working with an accountant, simply send them the exported file.
