@@ -1,6 +1,6 @@
-## Learn more
+## About Recurring Investments
 
-Recurring Top-ups are an easy way to get funds into Bamboo regularly without waiting for your round-up meter to fill.
+Recurring Top-ups keep funds flowing into your Bamboo account on autopilot, so your balance grows steadily.
 
 Top-up to reach your **Goals Faster** and benefit from [Dollar Cost Averaging](https://www.getbamboo.io/blog/dollar-cost-averaging-101/).
 
