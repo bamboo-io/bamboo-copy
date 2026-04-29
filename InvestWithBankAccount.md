@@ -4,7 +4,7 @@ Top-ups are an easy way to get funds into Bamboo without waiting for your recurr
 
 Top-up to reach your goals faster and benefit from Dollar Cost Averaging.
 
-Dollar Cost Averaging is an investment technique which involves buying a fixed dollar amount of a particular investment on a regular schedule. No more worrying about having to invest at the right time.
+Dollar Cost Averaging is an investment technique that involves buying a fixed dollar amount of a particular investment on a regular schedule. No more worrying about having to invest at the right time.
 
 
 ## How does it work?
