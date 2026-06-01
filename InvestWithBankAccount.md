@@ -11,8 +11,8 @@ Dollar Cost Averaging is an investment technique that involves buying a fixed do
 
 There are two ways to top up your portfolio:
 
-1. You can invest in your assets from USDC, which is a $USD denominated Stable Coin if you have it in your Bamboo account. You can learn more about USDC Stable Coin here on our [Blog](https://www.getbamboo.io/blog/Understanding-USDC/).
-2. Invest via your bank account with the direct debit. When you top up this way, a direct debit is issued to your funding account. If you have sufficient funds, we will immediately schedule an asset purchase for you. After 1-3 bank days, you should see a direct debit from "Bamboo 61" on your funding account statement.
+1. You can invest in assets using USDC, which is a $USD denominated Stable Coin, if you have it in your Bamboo account. You can learn more about USDC Stable Coin here on our [Blog](https://www.getbamboo.io/blog/Understanding-USDC/).
+2. Invest via your bank account with a direct debit. When you top up this way, a direct debit is issued to your funding account. If you have sufficient funds, we will immediately schedule an asset purchase for you. After 1-3 bank days, you should see a direct debit from "Bamboo 61" on your funding account statement.
 
 The minimum Top-up is:
 
